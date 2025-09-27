@@ -8,4 +8,10 @@ Step Two: Flash Circuitpython to your microcontroller
 
 Step Three: Download the source code from this github
 
-Step Four: Extract lib, requirements and code.py to the root of your Microcontroller
+Step Four: Extract code.py to the root of your Microcontroller
+
+Step Five: Go to this link: https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/tag/20250926 and download the latest version
+
+Step Six: Extract lib and requirements folder to the Microcontroller root, overwriting current lib folder if required
+
+You're all done! You can either unplug your new hacking device or edit code.py to have a custom program.
