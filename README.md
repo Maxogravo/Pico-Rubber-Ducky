@@ -15,3 +15,6 @@ Step Five: Go to this link: [https://github.com/adafruit/Adafruit_CircuitPython
 Step Six: Extract lib and requirements folder to the Microcontroller root, overwriting current lib folder if required
 
 You're all done! You can either unplug your new hacking device or edit code.py to have a custom program.
+
+# Disclaimer
+The current code is not anything malicious, you will have to edit the keycodes yourself to change that
