@@ -18,3 +18,5 @@ Step Seven: Run GUI.py from /configapp and enter instructions
 
 You're all done! You can either unplug your new hacking device or edit code.py to have a custom program.
 
+# Disclaimer:
+Depending on what you do you could get into legal trouble. That's on you. Be wise
