@@ -8,6 +8,8 @@ instruction = input("Enter Instruction: ")
 
 for char in instruction:
     char = "Keycode." + char.upper()
+    if char == "Keycode. ":
+        char = "Keycode.SPACE"
     kbd.send(char)
 
 kbd.send(Keycode.ENTER)
