@@ -21,7 +21,6 @@ if osv == "win":
     time.sleep(0.3)
 elif osv == "mac":
     kbd.send(Keycode.COMMAND, Keycode.SPACE)
-    word = "Terminal"
     time.sleep(0.1)
     layout.write("terminal")
     time.sleep(0.3)
